@@ -4,11 +4,18 @@
 /target/www/**
 
 ######################
+# NativeScript
+######################
+/src/main/nativeapp/platforms/**
+/src/main/nativeapp/node_modules/**
+
+######################
 # Node
 ######################
 /node/**
 /node_tmp/**
 /node_modules/**
+/src/main/webapp/bower_components/**
 
 ######################
 # SASS
